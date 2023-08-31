@@ -1,0 +1,73 @@
+#include <stdio.h>
+ 
+int main() {
+ int num; 
+ int i = 1;
+ int j = 2;
+ int k = 3;
+ int l = 4;
+ int m = 5;
+ int n = 6;
+ int o = 7;
+ int p = 8;
+ int r = 9;
+ int s = 10;
+ 
+  printf("---Digite um número---: ");
+  scanf("%d", &num);
+
+  printf("%d  * %d = %d\n", num, i, num * i);
+  printf("%d  * %d = %d\n", num, j, num * j);
+  printf("%d  * %d = %d\n", num, k, num * k);
+  printf("%d  * %d = %d\n", num, l, num * l);
+  printf("%d  * %d = %d\n", num, m, num * m);
+  printf("%d  * %d = %d\n", num, n, num * n);
+  printf("%d  * %d = %d\n", num, o, num * o);
+  printf("%d  * %d = %d\n", num, p, num * p);
+  printf("%d  * %d = %d\n", num, r, num * r);
+  printf("%d  * %d = %d\n", num, s, num * s);
+
+  printf("\n---Digite um número---: ");
+  scanf("%d", &num);
+
+  printf("%d  * %d = %d\n", num, i, num * i);
+  printf("%d  * %d = %d\n", num, j, num * j);
+  printf("%d  * %d = %d\n", num, k, num * k);
+  printf("%d  * %d = %d\n", num, l, num * l);
+  printf("%d  * %d = %d\n", num, m, num * m);
+  printf("%d  * %d = %d\n", num, n, num * n);
+  printf("%d  * %d = %d\n", num, o, num * o);
+  printf("%d  * %d = %d\n", num, p, num * p);
+  printf("%d  * %d = %d\n", num, r, num * r);
+  printf("%d  * %d = %d\n", num, s, num * s);
+
+  printf("\n---Digite um número---: ");
+  scanf("%d", &num);
+
+  printf("%d  * %d = %d\n", num, i, num * i);
+  printf("%d  * %d = %d\n", num, j, num * j);
+  printf("%d  * %d = %d\n", num, k, num * k);
+  printf("%d  * %d = %d\n", num, l, num * l);
+  printf("%d  * %d = %d\n", num, m, num * m);
+  printf("%d  * %d = %d\n", num, n, num * n);
+  printf("%d  * %d = %d\n", num, o, num * o);
+  printf("%d  * %d = %d\n", num, p, num * p);
+  printf("%d  * %d = %d\n", num, r, num * r);
+  printf("%d  * %d = %d\n", num, s, num * s);
+
+  printf("\n---Digite um número---: ");
+  scanf("%d", &num);
+
+  printf("%d  * %d = %d\n", num, i, num * i);
+  printf("%d  * %d = %d\n", num, j, num * j);
+  printf("%d  * %d = %d\n", num, k, num * k);
+  printf("%d  * %d = %d\n", num, l, num * l);
+  printf("%d  * %d = %d\n", num, m, num * m);
+  printf("%d  * %d = %d\n", num, n, num * n);
+  printf("%d  * %d = %d\n", num, o, num * o);
+  printf("%d  * %d = %d\n", num, p, num * p);
+  printf("%d  * %d = %d\n", num, r, num * r);
+  printf("%d  * %d = %d\n", num, s, num * s);
+
+  
+}
